@@ -1,0 +1,7 @@
+{
+  "fingerprint": "43bda4b44ceaf36f",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAs/tfO2mv0QUn5hG2Zh5G4vIZE0voJSkpB4DGwZzPxCk=\n-----END PUBLIC KEY-----\n",
+  "signed_at": "2026-01-31T11:48:11Z",
+  "files_signed": 1,
+  "tool": "skillsign v1.0.0"
+}
